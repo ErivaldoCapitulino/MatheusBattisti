@@ -94,7 +94,7 @@ h1 {
 #o-scoreboard {
   display: inline-block;
   width: 18px;
-  border: 2px solid green;
+  color: green;
 }
 
 #message p {
