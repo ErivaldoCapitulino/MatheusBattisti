@@ -4,7 +4,8 @@ first practical project of the **_Javascript course from basic to advanced (with
 
 ![Game for the old](./img/gameForTheOld.png)
 
-##Tech
+## Tech
+
 ![HTML](https://img.shields.io/badge/-HTML5-FF8C33?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-009CE6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-FFCA3E?style=for-the-badge&logo=javascript&logoColor=white)
